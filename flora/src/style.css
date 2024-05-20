@@ -1,0 +1,63 @@
+.App-footer {
+    background-color: rgb(71, 232, 144);
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    padding: 10px 0;
+  }
+.App-header {
+    margin-bottom: 20px;
+  
+  }
+  .navbar-custom {
+    background-color:rgb(71, 232, 144);
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    color: #0b0000;
+  }
+  
+  .fa-seedling {
+    margin-right: 10px; 
+  }
+
+  .footer-icon {
+    color: rgb(7, 7, 7);
+    margin: 0 10px;
+    transition: color 0.3s;
+  }
+  
+  .footer-icon:hover {
+    color: #f1c40f; 
+  }
+  .search-form .form-control {
+    border-radius: 0;
+  }
+  
+  .search-form .btn-outline-success {
+    color: white;
+    border-color: white;
+  }
+  
+  .search-form .btn-outline-success:hover {
+    background-color: #28a745; 
+    border-color: #28a745;
+  }
+  
+  .user-nav .nav-link {
+    color: white;
+    margin-left: 10px;
+  }
+  
+  .user-nav .nav-link:hover {
+    color: #f1c40f; 
+  }
+
+  
